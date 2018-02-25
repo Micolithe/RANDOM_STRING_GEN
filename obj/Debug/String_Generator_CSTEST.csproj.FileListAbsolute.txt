@@ -1,0 +1,9 @@
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\bin\Debug\String_Generator_CSTEST.exe.config
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\bin\Debug\String_Generator_CSTEST.exe
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\bin\Debug\String_Generator_CSTEST.pdb
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\obj\Debug\String_Generator_CSTEST.csprojResolveAssemblyReference.cache
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\obj\Debug\String_Generator_CSTEST.Form1.resources
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\obj\Debug\String_Generator_CSTEST.Properties.Resources.resources
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\obj\Debug\String_Generator_CSTEST.csproj.GenerateResource.Cache
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\obj\Debug\String_Generator_CSTEST.exe
+b:\libaries\documents\visual studio 2015\Projects\String_Generator_CSTEST\String_Generator_CSTEST\obj\Debug\String_Generator_CSTEST.pdb
